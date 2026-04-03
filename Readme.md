@@ -20,6 +20,5 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://space.bilibili.com/1642299013" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p></br>
 <h2>👿 My email address</h2>
-hi@tanzong.dpdns.org(no reply)
-2701262643@qq.com
+hi@tanzong.dpdns.org(no reply) </br>
 tanzongyouyi@outlook.com
